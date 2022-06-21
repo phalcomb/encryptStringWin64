@@ -88,7 +88,7 @@ namespace encryptString
             }
         }
 
-        // Function decrypt the string for storage
+        // Function decrypt the string for use
 
         public static string DecryptString(string cipherText, string keyString)
         {
