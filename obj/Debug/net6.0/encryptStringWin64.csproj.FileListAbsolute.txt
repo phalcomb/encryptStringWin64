@@ -1,0 +1,15 @@
+C:\Users\philip\source\repos\encryptStringWin64\bin\Debug\net6.0\encryptStringWin64.exe
+C:\Users\philip\source\repos\encryptStringWin64\bin\Debug\net6.0\encryptStringWin64.deps.json
+C:\Users\philip\source\repos\encryptStringWin64\bin\Debug\net6.0\encryptStringWin64.runtimeconfig.json
+C:\Users\philip\source\repos\encryptStringWin64\bin\Debug\net6.0\encryptStringWin64.dll
+C:\Users\philip\source\repos\encryptStringWin64\bin\Debug\net6.0\ref\encryptStringWin64.dll
+C:\Users\philip\source\repos\encryptStringWin64\bin\Debug\net6.0\encryptStringWin64.pdb
+C:\Users\philip\source\repos\encryptStringWin64\obj\Debug\net6.0\encryptStringWin64.csproj.AssemblyReference.cache
+C:\Users\philip\source\repos\encryptStringWin64\obj\Debug\net6.0\encryptStringWin64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\philip\source\repos\encryptStringWin64\obj\Debug\net6.0\encryptStringWin64.AssemblyInfoInputs.cache
+C:\Users\philip\source\repos\encryptStringWin64\obj\Debug\net6.0\encryptStringWin64.AssemblyInfo.cs
+C:\Users\philip\source\repos\encryptStringWin64\obj\Debug\net6.0\encryptStringWin64.csproj.CoreCompileInputs.cache
+C:\Users\philip\source\repos\encryptStringWin64\obj\Debug\net6.0\encryptStringWin64.dll
+C:\Users\philip\source\repos\encryptStringWin64\obj\Debug\net6.0\ref\encryptStringWin64.dll
+C:\Users\philip\source\repos\encryptStringWin64\obj\Debug\net6.0\encryptStringWin64.pdb
+C:\Users\philip\source\repos\encryptStringWin64\obj\Debug\net6.0\encryptStringWin64.genruntimeconfig.cache

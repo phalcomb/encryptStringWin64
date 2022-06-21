@@ -1,32 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {},
-    "net6.0/win10-x64": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/philiph/.nuget/packages/": {}
+    "C:\\Users\\philip\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/philiph/Source/encryptStringWin64/encryptStringWin64.csproj",
+      "projectUniqueName": "C:\\Users\\philip\\source\\repos\\encryptStringWin64\\encryptStringWin64.csproj",
       "projectName": "encryptStringWin64",
-      "projectPath": "/Users/philiph/Source/encryptStringWin64/encryptStringWin64.csproj",
-      "packagesPath": "/Users/philiph/.nuget/packages/",
-      "outputPath": "/Users/philiph/Source/encryptStringWin64/obj/",
+      "projectPath": "C:\\Users\\philip\\source\\repos\\encryptStringWin64\\encryptStringWin64.csproj",
+      "packagesPath": "C:\\Users\\philip\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\philip\\source\\repos\\encryptStringWin64\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/philiph/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\philip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,31 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[6.0.6, 6.0.6]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.6, 6.0.6]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[6.0.6, 6.0.6]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "win10-x64": {
-        "#import": []
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
