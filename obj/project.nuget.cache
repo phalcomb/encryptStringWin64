@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Rtpf2b2wsCYoGShxHVa7xruFghkHa4vubIZJTEAi/rh1ERDilQBag6uKLCw9keg9k+/mQhWDQPE0xXC5qrtJ7w==",
+  "dgSpecHash": "biGSGsZqr+5MRzZprQvQ8hyk9g2Sf1x+QV5vzYO52WkesAiXe03QtX/CQ4/tbKev+VxeK+xGKvT6RWMIgsVfkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\philip\\source\\repos\\encryptStringWin64\\encryptStringWin64.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\philip\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.1\\microsoft.netcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\philip\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\philip\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x64.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
