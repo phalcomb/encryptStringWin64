@@ -1,0 +1,2 @@
+/Users/philiph/Source/encryptStringWin64/bin/Release/net6.0/win10-x64/publish/encryptStringWin64.pdb
+/Users/philiph/Source/encryptStringWin64/bin/Release/net6.0/win10-x64/publish/encryptStringWin64.exe
