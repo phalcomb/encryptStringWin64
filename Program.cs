@@ -18,8 +18,8 @@ namespace encryptString
             if (args.Length == 0)
 	        {
                 Console.WriteLine("\nInvalid Parameters\n");
-                Console.WriteLine("Encrypt Useage: encryptString encrypt -s {0}stringValue{0}", Convert.ToChar(34));
-                Console.WriteLine("Decrypt Useage: encryptString decrypt -s {0}stringValue{0}", Convert.ToChar(34));
+                Console.WriteLine("Encrypt Useage: encryptString encrypt -s 'String to Encrypt'");
+                Console.WriteLine("Decrypt Useage: encryptString decrypt -s 'String to Decrypt'");
                 Console.WriteLine("\n");
                 return;
 	        }
@@ -51,8 +51,8 @@ namespace encryptString
                 // if the commands don't make any sense then print out the instructions again
                     default:
                     Console.WriteLine("\nInvalid Parameters\n");
-                    Console.WriteLine("Encrypt Useage: encryptString encrypt -s {0}stringValue{0}", Convert.ToChar(34));
-                    Console.WriteLine("Decrypt Useage: encryptString decrypt -s {0}stringValue{0}", Convert.ToChar(34));
+                    Console.WriteLine("Encrypt Useage: encryptString encrypt -s 'String to Encrypt'");
+                    Console.WriteLine("Decrypt Useage: encryptString decrypt -s 'String to Decrypt'");
                     Console.WriteLine("\n");
                     break;
             }
