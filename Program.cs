@@ -38,14 +38,14 @@ namespace encryptString
                     case "encrypt" when args.Length == 3 && args[1] == "-s":
                     content = args[2];
                     encrypted = EncryptString(content, key);
-                    Console.WriteLine("\nEncrypted String: " + encrypted + "\n");
+                    Console.WriteLine("\nEncrypted String: \n\n" + encrypted + "\n");
                     break;
                     
                 // if the decrypt parameter was defined, then do this...
                     case "decrypt" when args.Length == 3 && args[1] == "-s":
                     encrypted = args[2];
                     decrypted = DecryptString(encrypted, key);
-                    Console.WriteLine("\nDecrypted String: " + decrypted + "\n");
+                    Console.WriteLine("\nDecrypted String: \n\n" + decrypted + "\n");
                     break;
 
                 // if the commands don't make any sense then print out the instructions again
